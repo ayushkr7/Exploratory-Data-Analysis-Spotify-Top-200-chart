@@ -1,3 +1,5 @@
+<img src='https://user-images.githubusercontent.com/51288637/166512312-bbf715ba-f2c8-405b-be67-4c27387abf2a.png' height=50% width=50%>
+
 ## Exploratory-Data-Analysis-Spotify-Top-200-chart
 The repository contains my EDA submission for Jovian's <b>Data Analysis with Python: Zero to Pandas</b> course.
 <br>
