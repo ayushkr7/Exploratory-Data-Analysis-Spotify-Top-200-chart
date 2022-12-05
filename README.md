@@ -10,4 +10,6 @@ The chart is made by Spotify and is updated regularly, so our dataset doesn't in
 
 Dataset - https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021
 
+IPYNB file: https://jovian.ai/krayush-ak/eda-spotify-top-200-charts-2020-2021
+
 Data Analysis with Python: Zero to Pandas - https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
